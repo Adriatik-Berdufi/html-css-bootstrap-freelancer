@@ -1,8 +1,10 @@
 /** DEBUG **/
 .debug{
-    min-width: 300px;
-    min-height: 500px;
-    padding:  2rem 0;
+    min-height: 500px; 
+    border: 2px dashed black;
+}
+.d-b{
+    min-height: 300px;
 }
 
 
@@ -11,8 +13,17 @@
     background-color:rgb(44, 62, 80) ;
     color: white;
     height: 90px;
-}
+} 
 
+
+/******* MAIN ********/
+
+/*** Section Hero ***/
 .hero{
     background-color:rgb(53, 188, 155);
+}
+/*** Section portifolio ***/
+/* debug */
+.portifolio{
+    background-color: aqua;
 }
