@@ -1,0 +1,15 @@
+/** DEBUG **/
+.debug{
+    min-width: 300px;
+    min-height: 200px;
+}
+
+
+/******* HEADER ********/
+.header{
+    background-color:rgb(44, 62, 80) ;
+    color: white;
+    height: 90px;
+}
+
+
