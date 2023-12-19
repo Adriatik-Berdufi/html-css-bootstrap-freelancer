@@ -46,3 +46,8 @@
 .copyright{
     background-color: rgb(44, 62, 80);
 }
+.linea{
+    height: 4px;
+    min-width: 20%;
+    background-color: rgb(0, 0, 0);
+}
