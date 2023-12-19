@@ -1,4 +1,7 @@
+/** RESET **/
+
 /** DEBUG **/
+
 .debug{
     min-height: 500px; 
     border: 2px dashed black;
@@ -26,6 +29,7 @@
 /* debug */
 .portifolio{
     background-color: aqua;
+
 }
 
 
