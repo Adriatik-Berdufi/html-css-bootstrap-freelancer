@@ -25,6 +25,9 @@
 .hero{
     background-color:rgb(53, 188, 155);
 }
+.hero-img{
+    min-width: 300px;
+}
 /*** Section Portifolio ***/
 /* debug */
 .portifolio{
